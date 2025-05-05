@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "potSherd",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BRB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:guster_pottery_sherd",
+        "R": "minecraft:breeze_rod"
+    },
+    "result": {
+        "id": "minecraft:guster_pottery_sherd",
+        "count": 2
+    }
+}

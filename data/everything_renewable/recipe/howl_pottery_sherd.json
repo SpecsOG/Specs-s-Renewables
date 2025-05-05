@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "potSherd",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BWB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:howl_pottery_sherd",
+        "W": "minecraft:bone"
+    },
+    "result": {
+        "id": "minecraft:howl_pottery_sherd",
+        "count": 2
+    }
+}

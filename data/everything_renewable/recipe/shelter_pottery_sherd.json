@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "potSherd",
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BAB"
+    ],
+    "key": {
+        "B": "minecraft:brick",
+        "S": "minecraft:shelter_pottery_sherd",
+        "A": "minecraft:acacia_sapling"
+    },
+    "result": {
+        "id": "minecraft:shelter_pottery_sherd",
+        "count": 2
+    }
+}
